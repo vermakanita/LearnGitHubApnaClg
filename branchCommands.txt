@@ -1,0 +1,16 @@
+Branch related commands 
+
+git branch
+ check the current branch
+
+ git branch branchName -M newbranchName
+change the branch name 
+
+git checkout branchName
+to navigate 
+
+git checkout -b newbranchName
+create new Branch
+
+git branch -d branchName
+to delete branch 
