@@ -1,0 +1,2 @@
+fork is a rough copy 
+the option is mention which repo you want to fork in your repo 

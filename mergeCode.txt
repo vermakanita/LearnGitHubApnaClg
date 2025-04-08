@@ -1,0 +1,14 @@
+using terminal 
+
+check diffrench on both files 
+git diff branchName 
+
+for Merge
+git merge branchName
+
+
+agr remote  me merge kiya h or use apne local repo pr lena h to 
+git pull origin branchName kre 
+
+or agr local repo pr merge kiya h or use remote origin pr push krna h to 
+push add origin branchName

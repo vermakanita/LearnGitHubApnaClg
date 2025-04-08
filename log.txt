@@ -1,0 +1,6 @@
+git log
+information about commits
+
+
+git log-path -1
+more information

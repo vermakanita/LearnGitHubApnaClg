@@ -1,0 +1,6 @@
+only for staged 
+git restore --staged filename
+
+
+after clone 
+git restore filename

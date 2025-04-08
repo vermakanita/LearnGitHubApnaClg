@@ -1,0 +1,10 @@
+select which one code you want then 
+
+git status
+git add 
+git commit -m "msg"
+git checkout branchName
+git merge secondbranchName
+git push origin branch
+
+

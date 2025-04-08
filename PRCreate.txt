@@ -1,0 +1,6 @@
+if you are gatting issue to taking pull request use this cmd 
+git pull origin main --allow-unrelated-histories
+
+
+
+git pull origin branchName

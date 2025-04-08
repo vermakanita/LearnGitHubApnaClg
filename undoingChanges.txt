@@ -1,0 +1,14 @@
+after add .
+git reset filename
+
+git reset 
+
+
+after commit
+git reset HEAD~1 (undo only one commit)
+
+for undo multiple commit
+git reset commithash
+
+for undo in vsCode
+git reset --hard commithash

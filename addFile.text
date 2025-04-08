@@ -1,0 +1,8 @@
+git init
+git remote add origin <url>
+git branch
+git push -u origin branchName
+
+
+note :- just conforming your local repo is either empty or take pull request ya clone on remote repo(git pull origin main --allow-unrelated-histories)
+
